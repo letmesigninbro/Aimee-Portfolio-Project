@@ -2,6 +2,7 @@
 
 ## Overview
 This project documents my setup process for Cursor IDE and GitHub integration as part of a portfolio task to demonstrate my ability to follow technical instructions, troubleshoot issues, and document workflows clearly.
+
 ---
 
 ## Tools Installed
